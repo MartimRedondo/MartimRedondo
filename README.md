@@ -1,5 +1,15 @@
-# 💫 About Me:
-🔭 I'm currently working on<br><br>My Master's thesis on dynamic attack surface evaluation through web code analysis<br><br>👯 I'm looking to collaborate on<br><br>Cybersecurity projects, CTF challenges or security-focused open source tools<br><br>🌱 I'm currently learning<br><br>Offensive security through TryHackMe and Hack The Box platforms<br><br>⚡ Fun fact<br><br>I took Computer Graphics in my Master's just as a creative escape — but security is where my heart is
+# Sobre mim (🇬🇧 About me)
+
+📍 Braga, Portugal 🇵🇹
+
+🎓 Licenciado em Engenharia Informática. Atualmente a frequentar o Mestrado em Engenharia Informática na [Universidade do Minho](https://www.uminho.pt), com especialização em Criptografia e Segurança de Sistemas Informáticos.
+
+🔬 A desenvolver a tese de mestrado sobre avaliação dinâmica de superfícies de ataque baseadas em análise de código web.
+
+💡 Fun fact: Escolhi Computação Gráfica no mestrado como escape criativo — mas a segurança é o que realmente gosto.
+
+[![LinkedIn](https://img.shields.io/badge/Martim_Redondo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/martim-redondo-159bb2279)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:redondomartim@gmail.com)
 
 
 ## 🌐 Socials:
