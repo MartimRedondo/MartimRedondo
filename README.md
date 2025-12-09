@@ -53,3 +53,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MartimRedondo&icon=0&color=3)](https://visitcount.itsvg.in)
+
+---
+
+## 📚 Trabalhos Académicos
+[![Universidade](https://img.shields.io/badge/Projetos-UMinho-blue?style=flat)](https://github.com/MartimRedondo/UMinho-Projetos)
