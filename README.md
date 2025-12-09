@@ -1,6 +1,6 @@
-# Sobre mim (🇬🇧 About me)
+# Sobre mim (About me)
 
-📍 Braga, Portugal 🇵🇹
+📍 Braga, Portugal
 
 🎓 Licenciado em Engenharia Informática. Atualmente a frequentar o Mestrado em Engenharia Informática na [Universidade do Minho](https://www.uminho.pt), com especialização em Criptografia e Segurança de Sistemas Informáticos.
 
@@ -8,7 +8,7 @@
 
 💡 Fun fact: Escolhi Computação Gráfica no mestrado como escape criativo — mas a segurança é o que realmente gosto.
 
-## 🌐 Socials:
+## Contactos (Socials)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/martim-redondo-159bb2279) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:redondomartim@gmail.com) 
 
 ## Linguagens de programação (🇬🇧 Programming Languages)
