@@ -8,10 +8,6 @@
 
 💡 Fun fact: Escolhi Computação Gráfica no mestrado como escape criativo — mas a segurança é o que realmente gosto.
 
-[![LinkedIn](https://img.shields.io/badge/Martim_Redondo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/martim-redondo-159bb2279)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:redondomartim@gmail.com)
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/martim-redondo-159bb2279) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:redondomartim@gmail.com) 
 
