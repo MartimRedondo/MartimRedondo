@@ -47,7 +47,6 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MartimRedondo&theme=apprentice&hide_border=false&include_all_commits=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=MartimRedondo&theme=apprentice&hide_border=false)
 
 ---
